@@ -38,8 +38,9 @@ npm run build | yarn build
 
 Technical Information
 [API](https://randomuser.me/api/)
+|
 [Docs](https://randomuser.me/documentation)
 
 ---
 
-[Demo](https://randomuser.me/documentation)
+[Demo](https://drenvio-react-challenge.vercel.app)
